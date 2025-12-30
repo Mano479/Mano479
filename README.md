@@ -15,30 +15,21 @@ FlechyConnect une application avec react native pour aider les clubs d'escrime (
 
 ## 🛠️ Compétences
 
-| Langages        | Niveau        |
-|-----------------|---------------|
-| JavaScript      | ▓▓▓▓▓▓▓▓░░ 80% |
-| Python          | ▓▓▓▓▓▓▓░░░ 70% |
-| C++             | ▓▓▓▓░░░░░░ 40% |
-| HTML / CSS      | ▓▓▓░░░░░░░ 30% |
+### 💻 Langages
+| Langage       | Niveau |
+|---------------|--------|
+| JavaScript    | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
+| Python        | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
+| C++           | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
+| HTML / CSS    | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% |
 
-| Technos & outils | Niveau        |
-|-----------------|---------------|
-| Git / GitHub     | ▓▓▓▓░░░░░░ 40% |
-| Node.js          | ▓▓▓▓▓▓▓░░░ 70% |
-| Linux            | ▓▓▓▓▓▓▓▓░░ 80% |
+### 🛠️ Technos & outils
+| Outil         | Niveau |
+|---------------|--------|
+| Git / GitHub  | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
+| Node.js       | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
+| Linux         | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
 
-
----
-
-## 📈 GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mano479&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano479&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
