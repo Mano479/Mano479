@@ -1,26 +1,50 @@
-<h1 align="center">Salut 👋, je suis Mano</h1>
-<h3 align="center">Étudiant en informatique / mathématique à Paris Saclay</h3>
+# 👋 Bonjour, moi c’est Mano
 
-- 🔭 Je travaille actuellement sur **FlechyConnect**
+🎓 Étudiant en licence Double Diplôme Informatique–Mathématiques à l’université Paris-Saclay  
+💻 Passionné par la programmation, l’algorithmique et les technologies numériques  
 
-- 🌱 I’m currently learning **C++**
+---
 
-- 👨‍💻 Mon "portfolio" [https://mano479.github.io](https://mano479.github.io)
+## 🚀 Projets principaux
+Je vous invite à regarder mes repo publics
 
-- 💬 N’hésite pas à me parler de **node.js**
+## 😌 Projet actuel
+FlechyConnect une application avec react native pour aider les clubs d'escrime (pas encore sortie)
 
-- 📄 Ma vie [Actuellement en L1 à l'université Paris-Saclay en Licence Double Diplôme Informatique Mathématique](Actuellement en L1 à l'université Paris-Saclay en Licence Double Diplôme Informatique Mathématique)
+---
 
-- ⚡ Fun fact **Je suis escrimeur**
+## 🛠️ Compétences
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+| Langages        | Niveau        |
+|-----------------|---------------|
+| JavaScript      | ▓▓▓▓▓▓▓▓░░ 80% |
+| Python          | ▓▓▓▓▓▓▓░░░ 70% |
+| C++             | ▓▓▓▓░░░░░░ 40% |
+| HTML / CSS      | ▓▓▓░░░░░░░ 30% |
+
+| Technos & outils | Niveau        |
+|-----------------|---------------|
+| Git / GitHub     | ▓▓▓▓░░░░░░ 40% |
+| Node.js          | ▓▓▓▓▓▓▓░░░ 70% |
+| Linux            | ▓▓▓▓▓▓▓▓░░ 80% |
+
+
+---
+
+## 📈 GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mano479&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mano479&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mano479&show_icons=true&locale=en&layout=compact" alt="mano479" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mano479&show_icons=true&locale=en" alt="mano479" /></p>
+## 📫 Me contacter
+- 🌍 Portfolio : https://Mano479.github.io
 
+---
+
+⭐ N’hésite pas à explorer mes projets et à me contacter !
