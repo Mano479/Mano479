@@ -6,10 +6,10 @@
 ---
 
 ## 🚀 Projets principaux
-Je vous invite à regarder mes repo publics
+Je vous invite à regarder mes repos publics.
 
 ## 😌 Projet actuel
-FlechyConnect une application avec react native pour aider les clubs d'escrime (pas encore sortie)
+FlechyConnect une application avec React Native pour aider les clubs d'escrime (pas encore sortie).
 
 ---
 
