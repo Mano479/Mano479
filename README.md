@@ -20,7 +20,7 @@ FlechyConnect une application avec React Native pour aider les clubs d'escrime (
 |---------------|--------|
 | JavaScript    | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
 | Python        | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
-| C++           | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
+| C++           | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
 | HTML / CSS    | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% |
 
 ### 🛠️ Technos & outils
@@ -34,7 +34,7 @@ FlechyConnect une application avec React Native pour aider les clubs d'escrime (
 ---
 
 ## 📫 Me contacter
-- 🌍 Portfolio : https://Mano479.github.io
+- 🌍 Portfolio : https://manoasoupe.fr
 
 ---
 
